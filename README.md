@@ -39,7 +39,7 @@ This project uses Python to:
 ## **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/weather-data-analysis.git
+   git clone https://github.com/DataAnalysisHub/weather-forecast-analysis.git
    cd weather-data-analysis
    ```
 
@@ -87,23 +87,23 @@ weather-data-analysis/
 
 ## **Key Visualizations**  
 ### **1. Temperature Over Time**  
-![Temperature Over Time](figures/temperature.jpg)  
+<img src="https://github.com/DataAnalysisHub/weather-forecast-analysis/blob/main/figures/temperature.jpg">  
 *Line plot showing temperature trends over a 5-day period.*  
 
 ### **2. Humidity Over Time**  
-![Humidity Over Time](figures/humidity.jpg)  
+<img src="https://github.com/DataAnalysisHub/weather-forecast-analysis/blob/main/figures/humidity.jpg">    
 *Line plot showing humidity trends over a 5-day period.*  
 
 ### **3. Temperature vs. Humidity**  
-![Temperature vs Humidity](figures/temperature-vs-humidity.jpg)  
+<img src="https://github.com/DataAnalysisHub/weather-forecast-analysis/blob/main/figures/temperature-vs-humidity.jpg">  
 *Scatter plot exploring the relationship between temperature and humidity.*  
 
 ### **4. Temperature Distribution**  
-![Temperature Distribution](figures/temperature-distribution.jpg)  
+<img src="https://github.com/DataAnalysisHub/weather-forecast-analysis/blob/main/figures/temperature-distribution.jpg">  
 *Box plot showing the distribution of temperatures.*  
 
 ### **5. Humidity Distribution**  
-![Humidity Distribution](figures/humidity-distribution.jpg)  
+<img src="https://github.com/DataAnalysisHub/weather-forecast-analysis/blob/main/figures/humidity-distribution.jpg">  
 *Box plot showing the distribution of humidity.*  
 
 ---
